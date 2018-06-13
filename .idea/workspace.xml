@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51b9709-f4b6-4bee-9c80-86b9aed6c6f0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/onesignal/controller/PushNotificationOptions.java" afterPath="$PROJECT_DIR$/src/main/java/com/onesignal/controller/PushNotificationOptions.java" />
     </list>
     <list id="5e3bdec8-7f32-4b88-bbca-a373f872c2b7" name="Revert: Update .gitignore" comment="" />
@@ -70,8 +71,8 @@
       <file leaf-file-name="PushNotificationOptions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/onesignal/controller/PushNotificationOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="22" column="73" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="73" />
+            <state relative-caret-position="418">
+              <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -861,12 +862,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528876946374</updated>
-      <workItem from="1528876951016" duration="3508000" />
+      <workItem from="1528876951016" duration="3747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3508000" />
+    <option name="totallyTimeSpent" value="3747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="6" />
@@ -1026,8 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/onesignal/controller/PushNotificationOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="22" column="73" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="73" />
+        <state relative-caret-position="418">
+          <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

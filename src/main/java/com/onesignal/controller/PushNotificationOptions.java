@@ -13,8 +13,8 @@ import java.util.Scanner;
 
 public class PushNotificationOptions {
 
-    public static final String REST_API_KEY = "<YOUR REST API KEY>";
-    public static final String APP_ID = "<YOUR APP ID>";
+    public static final String REST_API_KEY = "ODliZTdhYzgtNTBlZS00ZDZhLWE4ZjctMTFlOGVhZTVmODlj";
+    public static final String APP_ID = "ec442d5b-9cd8-4b4f-9786-d7205550fc48";
 
     public static void sendMessageToAllUsers(String message) {
         try {
@@ -33,7 +33,7 @@ public class PushNotificationOptions {
 
             String strJsonBody = "{"
                     + "\"app_id\": \"" + APP_ID + "\","
-                    + "\"included_segments\": [\"All\"],"
+                    + "\"included_segments\": [\"ServerTest\"],"
                     + "\"data\": {\"foo\": \"bar\"},"
                     + "\"contents\": {\"en\": \"" + message + "\"}"
                     + "}";
